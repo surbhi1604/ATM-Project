@@ -7,7 +7,7 @@ This project is a simulation of an **ATM (Automated Teller Machine)** system imp
 
 ## Project Structure  
 
-The project consists of the following files:  
+The project consists of 3 files name as:  
 
 - **`Account.java`**  
   Handles account-related data and operations such as balance inquiry, deposits, and withdrawals.  
