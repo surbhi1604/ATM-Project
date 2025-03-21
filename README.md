@@ -1,5 +1,5 @@
 # ATM-Project
-###ATM Project in Java  
+### ATM Project in Java  
 
 This project is a simulation of an **ATM (Automated Teller Machine)** system implemented in Java. It demonstrates my knowledge of **Core Java concepts**, including the **Collection Framework**, **Object-Oriented Programming (OOP)** principles, and user interaction with a menu-driven interface.  
 
@@ -20,10 +20,7 @@ The project consists of the following files:
   - **Balance Inquiry**  
   - **Cash Withdrawal**  
   - **Cash Deposit**  
-  - **Exit**  
-
-- **`README.md`**  
-  Contains details about the project, its structure, and usage.  
+  - **Exit** 
 
 ---
 
